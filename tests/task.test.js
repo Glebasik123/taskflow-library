@@ -6,3 +6,6 @@ describe('Task Priority', () => {
         expect(task.priority).toBe('high');
     });
 });
+
+
+refactor: address review comments
